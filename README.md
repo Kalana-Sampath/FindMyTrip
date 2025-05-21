@@ -1,2 +1,3 @@
-## to run the project
+## To run the project
+npm install
 npm start
